@@ -112,9 +112,6 @@ npm run dev
 ```bash
 npm run build
 ```
-
-构建完成后，`dist/` 目录中包含完整的静态网站文件，可直接部署到任何静态托管服务。
-
 ---
 
 ##  技术栈
@@ -141,24 +138,6 @@ Japanese indie film aesthetic
 ```
 
 或在网站的 **Prompt Builder** 中勾选多条提示词组合使用。
-
----
-
-##  项目结构
-
-```
-nihon-cine-prompt/
- src/
-   app/
-     data.ts          # 提示词数据（180+ 条）
-     page.tsx         # 主页面组件
-     layout.tsx       # 根布局
-     globals.css      # 全局样式
- next.config.mjs      # Next.js 配置（静态导出）
- package.json         # 依赖
- tsconfig.json        # TypeScript 配置
- tailwind.config.ts   # Tailwind 配置
-```
 
 ---
 
