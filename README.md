@@ -87,7 +87,7 @@
 
 访问部署地址，搜索/筛选提示词，一键复制英文 prompt 到 GPT Image 2：
 
-> [在线访问地址（请替换为你的 GitHub Pages 地址）](https://你的用户名.github.io/nihon-cine-prompt)
+> https://chinomana.github.io/nihon-cine-prompt/
 
 ### 方式二：本地运行
 
